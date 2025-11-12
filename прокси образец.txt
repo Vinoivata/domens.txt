@@ -1,2 +1,0 @@
-http://login:password@ip:port
-http://ip:port
